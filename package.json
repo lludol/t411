@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "concat-stream": "^1.4.8",
-    "superagent": "^1.2.0",
+    "superagent": "^6.0.0",
     "typedarray-to-buffer": "^3.0.1"
   },
   "repository": {
